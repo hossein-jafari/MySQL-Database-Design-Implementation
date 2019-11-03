@@ -37,3 +37,16 @@ SQL statements for creating tables and queris are provided in "WheelBorrow.sql" 
 
 ### Java Database Connectivity (jdbc)
 In order to access database through Java, two libraries "jsch-0.1.54" and "mysql-connector-java-8.0.13" are added to java project. 
+
+### Screenshots
+| |
+|---|
+| ![img01](./screenshots/ERDiagram.png) | 
+| ![img02](./screenshots/01.png) |
+| ![img03](./screenshots/02.png) |
+| ![img04](./screenshots/03.png) |
+| ![img05](./screenshots/04.png) |
+| ![img06](./screenshots/05.png) |
+| ![img07](./screenshots/06.png) |
+| ![img08](./screenshots/07.png) |
+| ![img09](./screenshots/08.png) |
